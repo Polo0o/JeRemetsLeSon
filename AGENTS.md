@@ -1,6 +1,6 @@
 # AGENTS.md — Consignes pour un agent travaillant sur ce dépôt
 
-Ce fichier s'adresse à tout outil d'IAassistante (CLI, IDE agent) qui ouvre ce dépôt : lis-le en entier avant de produire du code, puis lis les sources de vérité mentionnées plus bas.
+Ce fichier s'adresse à tout outil d'IA assistant (CLI, IDE agent) qui ouvre ce dépôt : lis-le en entier avant de produire du code, puis lis les sources de vérité mentionnées plus bas.
 
 ## Contexte projet (résumé)
 
